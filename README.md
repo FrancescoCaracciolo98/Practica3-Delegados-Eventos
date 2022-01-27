@@ -24,5 +24,11 @@ Por tanto, el resultado final es:
 ## Buscar información de Debug.DrawRay y utilízala para depuración.
 
 Como esta escrito en https://docs.unity3d.com/ScriptReference/Debug.DrawRay.html añadiendo 
+
 'Debug.DrawRay(transform.position, transform.forward * 5, Color.red, 0.1f, true);' 
+
 nos mostraría líneas rojas en este caso de los movimientos, siendo transform.position el punto de partida y transform.forward la dirección.
+
+Por tanto, el resultado final es:
+
+![GIF](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/ezgif.com-gif-maker%20(17).gif)
