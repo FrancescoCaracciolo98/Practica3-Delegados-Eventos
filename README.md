@@ -21,11 +21,20 @@ Por tanto, el resultado final es:
 ## Cuando el jugador se aproxima a los cilindros de tipo A, los cilindros de tipo B cambian su color y las esferas se orientan hacia un objetivo ubicado en la escena con ese propósito.
 
 
+## Implementar un controlador que mueva el objeto con wasd.
+
+Para implementar este segundo controlador usamos las siguientes líneas de código:
+
+`Input.GetKeyDown(KeyCode.W)` Para la tecla W.
+`Input.GetKeyDown(KeyCode.A)` Para la tecla A.
+`Input.GetKeyDown(KeyCode.S)` Para la tecla S.
+`Input.GetKeyDown(KeyCode.D)` Para la tecla D.
+
 ## Buscar información de Debug.DrawRay y utilízala para depuración.
 
 Como esta escrito en https://docs.unity3d.com/ScriptReference/Debug.DrawRay.html añadiendo 
 
-'Debug.DrawRay(transform.position, transform.forward * 5, Color.red, 0.1f, true);' 
+`Debug.DrawRay(transform.position, transform.forward * 5, Color.red, 0.1f, true);`
 
 nos mostraría líneas rojas en este caso de los movimientos, siendo transform.position el punto de partida y transform.forward la dirección.
 
