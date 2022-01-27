@@ -19,16 +19,29 @@ Por tanto, el resultado final es:
 
 
 ## Cuando el jugador se aproxima a los cilindros de tipo A, los cilindros de tipo B cambian su color y las esferas se orientan hacia un objetivo ubicado en la escena con ese propósito.
+Para hacer esto utilizo los siguientes scripts:
+![Screenshot%20(5497)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/Screenshot%20(5497).png)
+![Screenshot%20(5498)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/Screenshot%20(5498).png)
 
+
+
+![ezgif.com-gif-maker%20(18)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/ezgif.com-gif-maker%20(18).gif)
 
 ## Implementar un controlador que mueva el objeto con wasd.
 
 Para implementar este segundo controlador usamos las siguientes líneas de código:
 
 `Input.GetKeyDown(KeyCode.W)` Para la tecla W.
+
 `Input.GetKeyDown(KeyCode.A)` Para la tecla A.
+
 `Input.GetKeyDown(KeyCode.S)` Para la tecla S.
+
 `Input.GetKeyDown(KeyCode.D)` Para la tecla D.
+
+
+
+
 
 ## Buscar información de Debug.DrawRay y utilízala para depuración.
 
@@ -40,4 +53,4 @@ nos mostraría líneas rojas en este caso de los movimientos, siendo transform.p
 
 Por tanto, el resultado final es:
 
-![GIF](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/ezgif.com-gif-maker%20(17).gif)
+![ezgif.com-gif-maker%20(17)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/ezgif.com-gif-maker%20(17).gif)
