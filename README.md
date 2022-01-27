@@ -6,30 +6,43 @@
 
 ## Cuando el jugador colisiona con un objeto de tipo A, el objeto B mostrará un texto en una UI de Unity. Cuando toca el objeto B se incrementará la fuerza del objeto A.
 Para hacer esto utilizo los siguientes scripts:
+
+
+Para el cilindro B:
 ![Screenshot%20(5501)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/Screenshot%20(5501).png)
 
 
+Para el cilindro A:
 ![Screenshot%20(5502)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/Screenshot%20(5502).png)
 
+
 El resultado es el siguiente:
+
 
 ![ezgif.com-gif-maker%20(19)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/ezgif.com-gif-maker%20(19).gif)
 
 
 ## Cuando el jugador se aproxima a los cilindros de tipo A, los cilindros de tipo B cambian su color y las esferas se orientan hacia un objetivo ubicado en la escena con ese propósito.
 Para hacer esto utilizo los siguientes scripts:
+
+
+Para el cilindro A:
 ![Screenshot%20(5497)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/Screenshot%20(5497).png)
 ![Screenshot%20(5498)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/Screenshot%20(5498).png)
 
 
+Para el cilindro B:
 ![Screenshot%20(5499)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/Screenshot%20(5499).png)
 
 
 ![Screenshot%20(5500)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/Screenshot%20(5500).png)
 
+
 El resultado es el siguiente:
 
+
 ![ezgif.com-gif-maker%20(18)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/ezgif.com-gif-maker%20(18).gif)
+
 
 ## Implementar un controlador que mueva el objeto con wasd.
 
