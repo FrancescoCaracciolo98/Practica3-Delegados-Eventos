@@ -35,6 +35,7 @@ Para el cilindro B:
 ![Screenshot%20(5499)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/Screenshot%20(5499).png)
 
 
+Para los cubos que se orientan:
 ![Screenshot%20(5500)](https://github.com/FrancescoCaracciolo98/Practica3-Delegados-Eventos/blob/main/Screenshot%20(5500).png)
 
 
